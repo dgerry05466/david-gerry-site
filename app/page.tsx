@@ -40,7 +40,6 @@ export default function Page() {
 
           <div className="headshot-card">
             <img className="headshot" src="/headshot.jpg" alt="David Gerry headshot" />
-            <p className="caption">The image is loaded from public/headshot.jpg.</p>
           </div>
         </div>
       </section>
