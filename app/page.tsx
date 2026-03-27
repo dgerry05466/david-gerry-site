@@ -130,6 +130,20 @@ export default function Page() {
         </div>
       </section>
 
+      <section class="results-section">
+  <h2>Recent Acceptance Results</h2>
+  <p class="results-subtitle">
+    A selection of real admissions outcomes from students I’ve worked with
+  </p>
+
+  <div class="results-grid">
+    <img src="/results/harvard.png" alt="Harvard Acceptance Letter">
+    <img src="/results/columbia.png" alt="Columbia Acceptance Letter">
+    <img src="/results/uchicago.png" alt="UChicago Acceptance Letter">
+    <img src="/results/upenn.png" alt="UPenn Acceptance Letter">
+  </div>
+</section>
+
       <footer className="footer">
         <div className="container footer-grid">
           <div>
